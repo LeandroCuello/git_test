@@ -1,0 +1,1 @@
+This is Lean's first git project!
